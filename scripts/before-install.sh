@@ -1,2 +1,3 @@
 #!/bin/bash
-sudo rm -rf /home/ubuntu/node
+
+killall node -9
